@@ -1,0 +1,6 @@
+numpy
+numba
+torch
+matplotlib
+scikit-learn
+torch-geometric
