@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+
+# Datasets
+data/
+data_torch_geometric/
+
+# Large outputs
+*.pt
+*.pth
+*.ptr
+*.ckpt
+*.parquet
+*.npy
+
+# OS
+.DS_Store
